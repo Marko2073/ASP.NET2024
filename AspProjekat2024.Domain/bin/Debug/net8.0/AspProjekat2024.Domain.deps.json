@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AspProjekat2024.Domain/1.0.0": {
+        "runtime": {
+          "AspProjekat2024.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AspProjekat2024.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

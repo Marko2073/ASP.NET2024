@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AspProjekat2024.API.props" />
+</Project>

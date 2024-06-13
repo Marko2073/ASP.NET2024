@@ -1,0 +1,17 @@
+C:\Users\marko\source\repos\AspProjekat2024.API\AspProjekat2024.DataAccess\bin\Debug\net8.0\AspProjekat2024.DataAccess.deps.json
+C:\Users\marko\source\repos\AspProjekat2024.API\AspProjekat2024.DataAccess\bin\Debug\net8.0\AspProjekat2024.DataAccess.runtimeconfig.json
+C:\Users\marko\source\repos\AspProjekat2024.API\AspProjekat2024.DataAccess\bin\Debug\net8.0\AspProjekat2024.DataAccess.dll
+C:\Users\marko\source\repos\AspProjekat2024.API\AspProjekat2024.DataAccess\bin\Debug\net8.0\AspProjekat2024.DataAccess.pdb
+C:\Users\marko\source\repos\AspProjekat2024.API\AspProjekat2024.DataAccess\bin\Debug\net8.0\AspProjekat2024.Domain.dll
+C:\Users\marko\source\repos\AspProjekat2024.API\AspProjekat2024.DataAccess\bin\Debug\net8.0\AspProjekat2024.Domain.pdb
+C:\Users\marko\source\repos\AspProjekat2024.API\AspProjekat2024.DataAccess\obj\Debug\net8.0\AspProjekat2024.DataAccess.csproj.AssemblyReference.cache
+C:\Users\marko\source\repos\AspProjekat2024.API\AspProjekat2024.DataAccess\obj\Debug\net8.0\AspProjekat2024.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marko\source\repos\AspProjekat2024.API\AspProjekat2024.DataAccess\obj\Debug\net8.0\AspProjekat2024.DataAccess.AssemblyInfoInputs.cache
+C:\Users\marko\source\repos\AspProjekat2024.API\AspProjekat2024.DataAccess\obj\Debug\net8.0\AspProjekat2024.DataAccess.AssemblyInfo.cs
+C:\Users\marko\source\repos\AspProjekat2024.API\AspProjekat2024.DataAccess\obj\Debug\net8.0\AspProjekat2024.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\marko\source\repos\AspProjekat2024.API\AspProjekat2024.DataAccess\obj\Debug\net8.0\AspProje.D20F9B32.Up2Date
+C:\Users\marko\source\repos\AspProjekat2024.API\AspProjekat2024.DataAccess\obj\Debug\net8.0\AspProjekat2024.DataAccess.dll
+C:\Users\marko\source\repos\AspProjekat2024.API\AspProjekat2024.DataAccess\obj\Debug\net8.0\refint\AspProjekat2024.DataAccess.dll
+C:\Users\marko\source\repos\AspProjekat2024.API\AspProjekat2024.DataAccess\obj\Debug\net8.0\AspProjekat2024.DataAccess.pdb
+C:\Users\marko\source\repos\AspProjekat2024.API\AspProjekat2024.DataAccess\obj\Debug\net8.0\AspProjekat2024.DataAccess.genruntimeconfig.cache
+C:\Users\marko\source\repos\AspProjekat2024.API\AspProjekat2024.DataAccess\obj\Debug\net8.0\ref\AspProjekat2024.DataAccess.dll

@@ -1,0 +1,11 @@
+C:\Users\marko\source\repos\AspProjekat2024.API\AspProjekat2024.Domain\bin\Debug\net8.0\AspProjekat2024.Domain.deps.json
+C:\Users\marko\source\repos\AspProjekat2024.API\AspProjekat2024.Domain\bin\Debug\net8.0\AspProjekat2024.Domain.dll
+C:\Users\marko\source\repos\AspProjekat2024.API\AspProjekat2024.Domain\bin\Debug\net8.0\AspProjekat2024.Domain.pdb
+C:\Users\marko\source\repos\AspProjekat2024.API\AspProjekat2024.Domain\obj\Debug\net8.0\AspProjekat2024.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marko\source\repos\AspProjekat2024.API\AspProjekat2024.Domain\obj\Debug\net8.0\AspProjekat2024.Domain.AssemblyInfoInputs.cache
+C:\Users\marko\source\repos\AspProjekat2024.API\AspProjekat2024.Domain\obj\Debug\net8.0\AspProjekat2024.Domain.AssemblyInfo.cs
+C:\Users\marko\source\repos\AspProjekat2024.API\AspProjekat2024.Domain\obj\Debug\net8.0\AspProjekat2024.Domain.csproj.CoreCompileInputs.cache
+C:\Users\marko\source\repos\AspProjekat2024.API\AspProjekat2024.Domain\obj\Debug\net8.0\AspProjekat2024.Domain.dll
+C:\Users\marko\source\repos\AspProjekat2024.API\AspProjekat2024.Domain\obj\Debug\net8.0\refint\AspProjekat2024.Domain.dll
+C:\Users\marko\source\repos\AspProjekat2024.API\AspProjekat2024.Domain\obj\Debug\net8.0\AspProjekat2024.Domain.pdb
+C:\Users\marko\source\repos\AspProjekat2024.API\AspProjekat2024.Domain\obj\Debug\net8.0\ref\AspProjekat2024.Domain.dll
