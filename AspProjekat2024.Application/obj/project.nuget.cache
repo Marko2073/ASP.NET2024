@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JZcLBXZdo2F/buMi1EdQodmvN1yyFR5VrrF3VQasGfhhZoUj/drV5ZDrm1dmii5rrbgrnGqajGU5wQd/2ErjNw==",
+  "dgSpecHash": "y6O3/LXc49vPAT8rann7Wu3YYSSVL5clM3GqJvzutHi/FivouDmCFOejRgwJ38aJl52UXHIsFeUKZmIHFFfurw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.Application\\AspProjekat2024.Application.csproj",
+  "projectFilePath": "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.Application\\AspProjekat2024.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

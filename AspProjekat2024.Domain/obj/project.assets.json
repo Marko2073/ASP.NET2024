@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.Domain\\AspProjekat2024.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.Domain\\AspProjekat2024.Domain.csproj",
       "projectName": "AspProjekat2024.Domain",
-      "projectPath": "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.Domain\\AspProjekat2024.Domain.csproj",
+      "projectPath": "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.Domain\\AspProjekat2024.Domain.csproj",
       "packagesPath": "C:\\Users\\marko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.Domain\\obj\\",
+      "outputPath": "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

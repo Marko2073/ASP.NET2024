@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y5waIZyhBo5iY29qoMux+PJlgXbU4Re5VabNc084zTxzLmRKDwJ4L6y7qfZXMnnJpQXiH8bQAXypArEk4x2liA==",
+  "dgSpecHash": "BT354KFLDWrKq6JfXl5s/J2JEwh9vAfu2oHSa/fwS/1T1ItiG2orpKXypM4Vpjn65rX2bSKckO9szDlvb8zRPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.Implementation\\AspProjekat2024.Implementation.csproj",
+  "projectFilePath": "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.Implementation\\AspProjekat2024.Implementation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marko\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\marko\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

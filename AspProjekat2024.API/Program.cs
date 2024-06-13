@@ -23,6 +23,7 @@ var settings = new AppSettings();
 
 builder.Configuration.Bind(settings);
 
+
 builder.Services.AddSingleton(settings.Jwt);
 
 

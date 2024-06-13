@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.API\\AspProjekat2024.API.csproj": {}
+    "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.API\\AspProjekat2024.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.API\\AspProjekat2024.API.csproj": {
+    "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.API\\AspProjekat2024.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.API\\AspProjekat2024.API.csproj",
+        "projectUniqueName": "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.API\\AspProjekat2024.API.csproj",
         "projectName": "AspProjekat2024.API",
-        "projectPath": "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.API\\AspProjekat2024.API.csproj",
+        "projectPath": "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.API\\AspProjekat2024.API.csproj",
         "packagesPath": "C:\\Users\\marko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.API\\obj\\",
+        "outputPath": "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,17 +33,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.Application\\AspProjekat2024.Application.csproj": {
-                "projectPath": "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.Application\\AspProjekat2024.Application.csproj"
+              "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.Application\\AspProjekat2024.Application.csproj": {
+                "projectPath": "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.Application\\AspProjekat2024.Application.csproj"
               },
-              "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.DataAccess\\AspProjekat2024.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.DataAccess\\AspProjekat2024.DataAccess.csproj"
+              "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.DataAccess\\AspProjekat2024.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.DataAccess\\AspProjekat2024.DataAccess.csproj"
               },
-              "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.Domain\\AspProjekat2024.Domain.csproj": {
-                "projectPath": "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.Domain\\AspProjekat2024.Domain.csproj"
+              "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.Domain\\AspProjekat2024.Domain.csproj": {
+                "projectPath": "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.Domain\\AspProjekat2024.Domain.csproj"
               },
-              "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.Implementation\\AspProjekat2024.Implementation.csproj": {
-                "projectPath": "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.Implementation\\AspProjekat2024.Implementation.csproj"
+              "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.Implementation\\AspProjekat2024.Implementation.csproj": {
+                "projectPath": "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.Implementation\\AspProjekat2024.Implementation.csproj"
               }
             }
           }
@@ -105,14 +105,14 @@
         }
       }
     },
-    "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.Application\\AspProjekat2024.Application.csproj": {
+    "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.Application\\AspProjekat2024.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.Application\\AspProjekat2024.Application.csproj",
+        "projectUniqueName": "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.Application\\AspProjekat2024.Application.csproj",
         "projectName": "AspProjekat2024.Application",
-        "projectPath": "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.Application\\AspProjekat2024.Application.csproj",
+        "projectPath": "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.Application\\AspProjekat2024.Application.csproj",
         "packagesPath": "C:\\Users\\marko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.Application\\obj\\",
+        "outputPath": "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -134,8 +134,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.Domain\\AspProjekat2024.Domain.csproj": {
-                "projectPath": "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.Domain\\AspProjekat2024.Domain.csproj"
+              "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.Domain\\AspProjekat2024.Domain.csproj": {
+                "projectPath": "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.Domain\\AspProjekat2024.Domain.csproj"
               }
             }
           }
@@ -174,14 +174,14 @@
         }
       }
     },
-    "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.DataAccess\\AspProjekat2024.DataAccess.csproj": {
+    "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.DataAccess\\AspProjekat2024.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.DataAccess\\AspProjekat2024.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.DataAccess\\AspProjekat2024.DataAccess.csproj",
         "projectName": "AspProjekat2024.DataAccess",
-        "projectPath": "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.DataAccess\\AspProjekat2024.DataAccess.csproj",
+        "projectPath": "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.DataAccess\\AspProjekat2024.DataAccess.csproj",
         "packagesPath": "C:\\Users\\marko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -203,8 +203,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.Domain\\AspProjekat2024.Domain.csproj": {
-                "projectPath": "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.Domain\\AspProjekat2024.Domain.csproj"
+              "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.Domain\\AspProjekat2024.Domain.csproj": {
+                "projectPath": "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.Domain\\AspProjekat2024.Domain.csproj"
               }
             }
           }
@@ -277,14 +277,14 @@
         }
       }
     },
-    "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.Domain\\AspProjekat2024.Domain.csproj": {
+    "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.Domain\\AspProjekat2024.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.Domain\\AspProjekat2024.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.Domain\\AspProjekat2024.Domain.csproj",
         "projectName": "AspProjekat2024.Domain",
-        "projectPath": "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.Domain\\AspProjekat2024.Domain.csproj",
+        "projectPath": "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.Domain\\AspProjekat2024.Domain.csproj",
         "packagesPath": "C:\\Users\\marko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.Domain\\obj\\",
+        "outputPath": "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -342,14 +342,14 @@
         }
       }
     },
-    "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.Implementation\\AspProjekat2024.Implementation.csproj": {
+    "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.Implementation\\AspProjekat2024.Implementation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.Implementation\\AspProjekat2024.Implementation.csproj",
+        "projectUniqueName": "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.Implementation\\AspProjekat2024.Implementation.csproj",
         "projectName": "AspProjekat2024.Implementation",
-        "projectPath": "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.Implementation\\AspProjekat2024.Implementation.csproj",
+        "projectPath": "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.Implementation\\AspProjekat2024.Implementation.csproj",
         "packagesPath": "C:\\Users\\marko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.Implementation\\obj\\",
+        "outputPath": "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.Implementation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -371,11 +371,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.Application\\AspProjekat2024.Application.csproj": {
-                "projectPath": "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.Application\\AspProjekat2024.Application.csproj"
+              "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.Application\\AspProjekat2024.Application.csproj": {
+                "projectPath": "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.Application\\AspProjekat2024.Application.csproj"
               },
-              "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.DataAccess\\AspProjekat2024.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\marko\\source\\repos\\AspProjekat2024.API\\AspProjekat2024.DataAccess\\AspProjekat2024.DataAccess.csproj"
+              "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.DataAccess\\AspProjekat2024.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\marko\\Source\\Repos\\ASP.NET2024\\AspProjekat2024.DataAccess\\AspProjekat2024.DataAccess.csproj"
               }
             }
           }
